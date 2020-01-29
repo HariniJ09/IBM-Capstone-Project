@@ -1,7 +1,7 @@
 # IBM-Capstone-Project
-Project to Find location using Four Square
+City Planners guide to improve amenities based on growing population in Santa Clara County
 
-Problem statement: The target audience for this problem is the state government of City Planning who need a Data Scientist to identify locations in a particular county(in case of this project:Santa Clara) where public amenities need to be improved to better serve their county. To name a few of such amenities are:
+Problem statement: The target audience for this problem are the City Planning commission who need a Data Scientist to identify locations in a particular county(in case of this project:Santa Clara) where public amenities need to be improved to better serve their county. To name a few of such amenities are:
 1. Public Park
 2. Library
 3. Fire Station
